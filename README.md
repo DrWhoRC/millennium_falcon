@@ -1,7 +1,7 @@
 # Millennium Falcon Challenge
-main concept is to build the mapping relationship between k (k is the risk number of encountering with hunters) and state(day, planet, fuel)
-use a min-heap to maintain and compute the next state with the minimum k
-every time we want to do something, there are 3 options:
+Main concept is to build the mapping relationship between k (k is the risk number of encountering with hunters) and state(day, planet, fuel)
+Use a min-heap to maintain and compute the next state with the minimum k
+Every time we want to do something, there are 3 options:
 * 1. wait 1 day
 * 2. refuel 1 day
 * 3. jump to the neighbor
